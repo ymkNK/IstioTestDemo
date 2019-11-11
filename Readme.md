@@ -1,0 +1,2 @@
+# TestDemo
+用测测试istio的demo项目，接口可以返回当前项目的版本
