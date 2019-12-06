@@ -3,7 +3,6 @@ package com.example.demo.model;
 import lombok.Data;
 import lombok.extern.slf4j.Slf4j;
 
-import java.math.BigDecimal;
 import java.util.Arrays;
 
 /**
