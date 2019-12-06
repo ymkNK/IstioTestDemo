@@ -1,2 +1,5 @@
 # TestDemo
 用测测试istio的demo项目，接口可以返回当前项目的版本
+同时包括了一些java编程学习的练习代码
+# ConcurrentProgramming
+并发编程练习
