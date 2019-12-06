@@ -40,7 +40,7 @@ public class Bank {
         accounts[to] += amount;
 
 
-        log.info("当前所在的线程：{} 从账户[{}]转移了%10.2{}到账户[{}] 银行中总金额 {} ", Thread.currentThread(), from, amount , to, getTotalBalance());
+        log.info("当前所在的线程：{} 从账户[{}]转移了{}到账户[{}] 银行中总金额 {} ", Thread.currentThread(), from, String.format("%.2f",amount) , to, getTotalBalance());
     }
 
     /**
